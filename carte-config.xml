@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<carte>
+  <hostname>0.0.0.0</hostname>
+  <port>8080</port>
+  <adminLogin>admin</adminLogin>
+  <adminPassword>admin</adminPassword>
+  <maxLogTimeout>1440</maxLogTimeout>
+  <logFile>logs/carte.log</logFile>
+  <maxLogSize>100000</maxLogSize>
+  <maxLogHistory>100</maxLogHistory>
+</carte>
